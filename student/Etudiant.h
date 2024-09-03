@@ -1,6 +1,5 @@
 #ifndef ETUDIANT_H
 #define ETUDIANT_H
-#include <string.h>
 #include <string>
 #include "Parcours.h"
 using namespace std;

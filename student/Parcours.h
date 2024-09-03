@@ -10,3 +10,4 @@ class Parcours{
     void inscription(Etudiant e);
     void setNomParcours(string nom)
 };
+#endif
